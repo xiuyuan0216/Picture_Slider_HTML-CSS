@@ -1,1 +1,1 @@
-#Simple and elegant picture slider using HTML and CSS
+#Simple and elegant picture slider using HTML and CSS#
